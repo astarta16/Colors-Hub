@@ -1,0 +1,15 @@
+@font-face{
+    font-family:"rufina-700", sans-serif;
+    src:url("../fonts/Rufina-Bold.ttf");
+}
+
+@font-face{
+    font-family:"RedHatDisplay-400", sans-serif;
+    src:url("../fonts/RedHatDisplay-Regular.ttf");
+}
+
+@font-face{
+    font-family:"RedHatDisplay-600", sans-serif;
+    src:url("../fonts/RedHatDisplay-SemiBold.ttf");
+}
+
